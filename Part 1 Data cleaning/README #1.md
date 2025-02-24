@@ -1,5 +1,5 @@
-## Task division is given in the final presentation :) 
-#Section name: Data Cleaning
+### *Task division is given in the final presentation :)* 
+# Section name: Data Cleaning
 
 # Overview: 
 This part includes preprocessing of the data done by the team after analyzing the data set provided. 
