@@ -1,6 +1,6 @@
-Section name: Data Dashboard
+# Section name: Data Dashboard
 
-#Overview: 
+# Overview: 
 This section includes the creation of a Tableau dashboard. A much detailed explanation is given in the final presentation.
 
 # Software Used:
