@@ -1,4 +1,4 @@
-Section name: Data Modelling
+# Section name: Data Modelling
 
 # Overview: 
 This part includes modelling  for predicting whether a flight should be cancelled or not with explanation in the final presentation.
@@ -21,8 +21,8 @@ Results: Random Forest had the best accuracy and overall score as compared to ot
 |------------------------------- |-------------------------------------|
 | Bayes theorem                  | coding files for bayes theorem      |
 | Logistic regression            | coding file for Logistic  regression|
-| Random Forest			 | coding file for Random forest       |
-| Final presentation		 | Final presentation power point file |
-| Cleaned Data (edited)		 |  CSV File used for modelling        | 
+| Random Forest			               | coding file for Random forest       |
+| Final presentation		           | Final presentation power point file |
+| Cleaned Data (edited)		        |  CSV File used for modelling        | 
 
  
