@@ -1,4 +1,4 @@
-Section name: Data visualization 
+# Section name: Data visualization 
 
 # Overview:
 This section includes visualization of the data columns to get a rough idea of how the upcoming prediction models will react to the data.
