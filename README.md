@@ -9,3 +9,20 @@ As airplanes have become the fastest means of transport to travel to long distan
 2. observe and evaluate patterns using visualizations
 3. create an optimum model for prediction
 
+### Link of original csv file: 
+https://www.kaggle.com/datasets/usdot/flight-delays/data?select=flights.csv
+
+
+### Files in folder:
+
+|File name...                        |         Description...              |
+|------------------------------------|-------------------------------------|
+| Part 1 Data cleaning               | Folder includes all the coding files with images and a read.md file for explaination reagarding data cleaning|
+| Part 2 Data Visualization                | Folder includes all the coding files with images and a read.md file for explaination regardfing data visualization|
+| Part 3 Data dashboard             | Folder includes all the coding files with images and a read.md file for explaination regarding dashboard creation       |
+| Part 4 Data modelling	             | Folder includes all the coding files with images and a read.md file for explaination regarding data modelling |
+|ShortenedDelayFlight.zip            | File after dropping rows with null values|
+|Cleaned Data                        | Cleaned data after all preprocessing     |
+
+
+#### *Team division and task division is explained in final presentation*
