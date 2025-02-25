@@ -23,6 +23,7 @@ https://www.kaggle.com/datasets/usdot/flight-delays/data?select=flights.csv
 | Part 4 Data modelling	             | Folder includes all the coding files with images and a read.md file for explaination regarding data modelling |
 |ShortenedDelayFlight.zip            | File after dropping rows with null values|
 |Cleaned Data                        | Cleaned data after all preprocessing     |
+|Final presentation.pptx             | Final presentation submitted to project mentor| 
 
 
 #### *Team division and task division is explained in final presentation*
