@@ -1,4 +1,3 @@
-### *Task division is given in the final presentation :)* 
 # Section name: Data Cleaning
 
 # Overview: 
@@ -47,14 +46,11 @@ In addition, a combination of origin and distance were used to replace value zer
  
 |File name...                    |         Description...                   |
 |------------------------------- |------------------------------------------|
-|DelayedFlights                  | Original file of the dataset             |
-|ShortenedDelayFlight            | File after dropping rows with null values|
-|Cleaned Data                    | Cleaned data after all preprocessing     |
-|Arr_Delay preprocessing - Parul | preprocessed data + images + coding file |
-|Dep_Delay preprocessing - Abu   | preprocessed data + images + coding file |
-|Taxi_in prprocessing - Meera    | preprocessed data + coding file          |
-|Taxi_out_preprocessing - Kamini | preprocessed data + coding file          |
-|Distance preprocessing - Megha  | preprocessed data + coding file          |
-|Dest preprocessing - Vidhut     | preprocessed data + coding file          |
+|Arr_Delay preprocessing - Parul | images + coding file |
+|Dep_Delay preprocessing - Abu   | images + coding file |
+|Taxi_in prprocessing - Meera    | coding file          |
+|Taxi_out_preprocessing - Kamini | coding file          |
+|Distance preprocessing - Megha  | coding file          |
+|Dest preprocessing - Vidhut     | coding file          |
 
  
