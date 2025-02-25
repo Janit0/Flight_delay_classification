@@ -22,7 +22,7 @@ Results: Random Forest had the best accuracy and overall score as compared to ot
 | Bayes theorem                  | coding files for bayes theorem      |
 | Logistic regression            | coding file for Logistic  regression|
 | Random Forest			               | coding file for Random forest       |
-| Final presentation		           | Final presentation power point file |
-| Cleaned Data (edited)		        |  CSV File used for modelling        | 
+
+
 
  
